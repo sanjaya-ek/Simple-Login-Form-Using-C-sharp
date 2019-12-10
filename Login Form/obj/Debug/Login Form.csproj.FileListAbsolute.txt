@@ -1,0 +1,18 @@
+F:\C# Projects\Login Form\Login Form\bin\Debug\Login Form.exe.config
+F:\C# Projects\Login Form\Login Form\bin\Debug\Login Form.exe
+F:\C# Projects\Login Form\Login Form\bin\Debug\Login Form.pdb
+F:\C# Projects\Login Form\Login Form\obj\Debug\Login Form.csprojResolveAssemblyReference.cache
+F:\C# Projects\Login Form\Login Form\obj\Debug\Login_Form.Login.resources
+F:\C# Projects\Login Form\Login Form\obj\Debug\Login_Form.Properties.Resources.resources
+F:\C# Projects\Login Form\Login Form\obj\Debug\Login Form.csproj.GenerateResource.Cache
+F:\C# Projects\Login Form\Login Form\obj\Debug\Login Form.exe
+F:\C# Projects\Login Form\Login Form\obj\Debug\Login Form.pdb
+F:\C# Projects\Login Form\Login Form\bin\Debug\loginDatabase.mdf
+F:\C# Projects\Login Form\Login Form\bin\Debug\loginDatabase_log.ldf
+F:\C# Projects\Login Form\Login Form\bin\Debug\Database1.mdf
+F:\C# Projects\Login Form\Login Form\bin\Debug\Database1_log.ldf
+F:\C# Projects\Login Form\Login Form\obj\Debug\Login_Form.MainForm.resources
+F:\C# Projects\Login Form\Login Form\bin\Debug\Login Form.exe.manifest
+F:\C# Projects\Login Form\Login Form\bin\Debug\Login Form.application
+F:\C# Projects\Login Form\Login Form\obj\Debug\Login Form.exe.manifest
+F:\C# Projects\Login Form\Login Form\obj\Debug\Login Form.application
